@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFCChatroomCpp", "MFCChatroomCpp\MFCChatroomCpp.vcxproj", "{C19F4098-55EB-4758-8150-89BDE3F3FBAF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChatroomSeverCpp", "ChatroomSeverCpp\ChatroomSeverCpp.vcxproj", "{B6ACBE29-88FD-486B-A03B-8290EC41B6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C19F4098-55EB-4758-8150-89BDE3F3FBAF}.Debug|x64.ActiveCfg = Debug|x64
+		{C19F4098-55EB-4758-8150-89BDE3F3FBAF}.Debug|x64.Build.0 = Debug|x64
+		{C19F4098-55EB-4758-8150-89BDE3F3FBAF}.Debug|x86.ActiveCfg = Debug|Win32
+		{C19F4098-55EB-4758-8150-89BDE3F3FBAF}.Debug|x86.Build.0 = Debug|Win32
+		{C19F4098-55EB-4758-8150-89BDE3F3FBAF}.Release|x64.ActiveCfg = Release|x64
+		{C19F4098-55EB-4758-8150-89BDE3F3FBAF}.Release|x64.Build.0 = Release|x64
+		{C19F4098-55EB-4758-8150-89BDE3F3FBAF}.Release|x86.ActiveCfg = Release|Win32
+		{C19F4098-55EB-4758-8150-89BDE3F3FBAF}.Release|x86.Build.0 = Release|Win32
+		{B6ACBE29-88FD-486B-A03B-8290EC41B6CF}.Debug|x64.ActiveCfg = Debug|x64
+		{B6ACBE29-88FD-486B-A03B-8290EC41B6CF}.Debug|x64.Build.0 = Debug|x64
+		{B6ACBE29-88FD-486B-A03B-8290EC41B6CF}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6ACBE29-88FD-486B-A03B-8290EC41B6CF}.Debug|x86.Build.0 = Debug|Win32
+		{B6ACBE29-88FD-486B-A03B-8290EC41B6CF}.Release|x64.ActiveCfg = Release|x64
+		{B6ACBE29-88FD-486B-A03B-8290EC41B6CF}.Release|x64.Build.0 = Release|x64
+		{B6ACBE29-88FD-486B-A03B-8290EC41B6CF}.Release|x86.ActiveCfg = Release|Win32
+		{B6ACBE29-88FD-486B-A03B-8290EC41B6CF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {815BAD4B-2150-486B-98DB-2DF33CE85968}
+	EndGlobalSection
+EndGlobal
